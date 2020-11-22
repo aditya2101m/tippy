@@ -1,10 +1,10 @@
 # Pre-work - *Tippy*
 
-**Tippy** is a tip calculator application for iOS.
+**Tippy* is a tip calculator application for iOS.
 
 Submitted by: **Aditya Majumdar**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -13,17 +13,19 @@ The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/bh5dMKA.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [ezgif](https://ezgif.com/video-to-gif/).
 
 ## Notes
 
-The walkthroughs were very informative so I did not have any difficulties while implimenting the required Functionalities. But I was not able to understand how to implement the optional tasks thus I was not able to add them to my app.
+The walk-throughs were very informative and easy to understand. But I had difficulties in implementing the optional functions since I did not clearly understand how and where do we apply the codes given in the walk-throughs.
 
 ## License
 
